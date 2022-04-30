@@ -1,0 +1,4 @@
+A la fecha: Sat, 30 Apr 2022 16:06:38 GMT
+Fue realizada la cotización con los siguientes datos:
+Cantidad de pesos a convertir: 900 pesos
+Convertido a euro da un total de: $ 1.00

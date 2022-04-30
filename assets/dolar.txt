@@ -1,0 +1,6 @@
+A la fecha: Sat, 30 Apr 2022 16:05:43 GMT
+Fue realizada la cotización con los siguientes datos:
+Cantidad de pesos a convertir: 1000 pesos
+Convertido a dolar da un total de: $ 1.17
+
+
